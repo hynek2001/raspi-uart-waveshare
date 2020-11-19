@@ -1,5 +1,8 @@
 Overview
 ------
+fork for  jarret / raspi-uart-waveshare. I am adding sending of images
+
+
 This library is an improvement and extension of [this repository](https://github.com/not-a-bird/waveshare-epaper-uart).  It is meant to work under Python3+ for the Raspberry Pi's GPIO output.
 
 The API into this library is very similar to its predecessor and the provided examples there may be easily ported.
